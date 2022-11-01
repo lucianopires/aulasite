@@ -1,0 +1,14 @@
+---
+title: "aulagitrepository"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+Este é um teste no GITHUB !!!
+
+```{r}
+1 + 1
+3 + 6
+```

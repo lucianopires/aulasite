@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "aulagitrepository",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\nEste é um teste no GITHUB !!!\n\n1 + 1\n\n[1] 2\n\n3 + 6\n\n[1] 9"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  }
+]
