@@ -8,6 +8,8 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 Este é um teste no GITHUB !!!
 
+Deu tudo certo !
+
 ```{r}
 1 + 1
 3 + 6
